@@ -10,8 +10,8 @@ pkgver=41
 pkgrel=1
 pkgdesc="Converts color codes to web-safe palette."
 arch=('any')
-url="https://github.com/manueldl/${_gitname}"
-source=("git+https://github.com/manueldl/${_gitname}.git")
+url="https://github.com/mdomlop/${_gitname}"
+source=("git+https://github.com/mdomlop/${_gitname}.git")
 license=('GPL3')
 depends=('python>=3')
 makedepends=('git')
